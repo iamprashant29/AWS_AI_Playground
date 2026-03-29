@@ -1,4 +1,4 @@
-This Python script creates an Amazon Bedrock client to play with the existing Bedrock model, **Anthropic Claude Haiku** in this case using **Python's boto3 SDK** to access AWS services.
+This Python script creates an Amazon Bedrock client to play with the existing Bedrock model, **Anthropic Claude Haiku** in this case using Python's **Boto3 SDK**.
 The script invokes the Haiku model to answer the user query and provides the response.
 
 Run the following commands to install the required libraries:-
